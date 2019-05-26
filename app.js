@@ -9,3 +9,7 @@ function calcPI(iterations) {
   }
   document.getElementById("output").value = pi.toFixed(10);
 }
+
+// 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+
+let fibList = [];
