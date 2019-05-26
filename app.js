@@ -13,3 +13,8 @@ function calcPI(iterations) {
 // 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
 
 let fibList = [];
+function getFibList(howMany) {
+  for (i = 0; i < howMany; i++) {
+    fibList[i] = fib(i);
+  }
+}
