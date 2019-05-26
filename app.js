@@ -17,4 +17,5 @@ function getFibList(howMany) {
   for (i = 0; i < howMany; i++) {
     fibList[i] = fib(i);
   }
+  fibList[i] = shift();
 }
