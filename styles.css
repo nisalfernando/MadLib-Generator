@@ -6,3 +6,7 @@
 textarea {
   height: 200px;
 }
+
+html {
+  font-size: 1em;
+}
