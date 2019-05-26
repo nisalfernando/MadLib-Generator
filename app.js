@@ -18,4 +18,5 @@ function getFibList(howMany) {
     fibList[i] = fib(i);
   }
   fibList[i] = shift();
+  document.getElementById("output1").value = fibList.join(", ");
 }
