@@ -21,6 +21,9 @@ function getFibList(howMany) {
   document.getElementById("output1").value = fibList.join(", ");
 }
 
-functioin fib(whichNum) {
-  
+function fib(whichNum) {
+  let num1 = 1,
+    num2 = 0,
+    temp,
+    i = 0;
 }
