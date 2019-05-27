@@ -20,3 +20,7 @@ function getFibList(howMany) {
   fibList[i] = shift();
   document.getElementById("output1").value = fibList.join(", ");
 }
+
+functioin fib(whichNum) {
+  
+}
