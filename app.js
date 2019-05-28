@@ -26,4 +26,10 @@ function fib(whichNum) {
     num2 = 0,
     temp,
     i = 0;
+  while (i < whichNum) {
+    temp = num1;
+    num1 = num1 + num2;
+    num2 = temp;
+    i++;
+  }
 }
