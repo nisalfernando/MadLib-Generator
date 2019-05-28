@@ -32,4 +32,5 @@ function fib(whichNum) {
     num2 = temp;
     i++;
   }
+  return num2;
 }
