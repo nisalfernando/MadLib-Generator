@@ -40,3 +40,6 @@ let mLText =
 
 // Convert string into an array
 let mLArray = mLText.split(" ");
+
+// Create an array for user input
+let inputArray = [];
