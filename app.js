@@ -37,3 +37,6 @@ function fib(whichNum) {
 
 let mLText =
   "My dear old ~ sat me down to hear some words of wisdom \n 1. Give a man a ~ and you ~ him for a day ~ a man to ~ and he'll ~ forver \n 2. He who ~ at the right time can ~ again \n 3. Always wear ~ ~ in case you're in a ~ \n 4. Don't use your ~ to wipe your ~ Always have a clean ~ with you";
+
+// Convert string into an array
+let mLArray = mLText.split(" ");
