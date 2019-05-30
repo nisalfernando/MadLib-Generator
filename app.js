@@ -46,4 +46,8 @@ let inputArray = [];
 
 function madLibGenerator() {
   createInputArray();
+
+  if (checkForMissingInput()) {
+    document.getElementById("output1").value = "enter all values above";
+  }
 }
