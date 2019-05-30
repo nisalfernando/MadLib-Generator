@@ -49,5 +49,7 @@ function madLibGenerator() {
 
   if (checkForMissingInput()) {
     document.getElementById("output1").value = "enter all values above";
+  } else {
+    createMLSentence();
   }
 }
