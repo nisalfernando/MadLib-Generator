@@ -43,3 +43,7 @@ let mLArray = mLText.split(" ");
 
 // Create an array for user input
 let inputArray = [];
+
+function madLibGenerator() {
+  createInputArray();
+}
