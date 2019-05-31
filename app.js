@@ -53,3 +53,7 @@ function madLibGenerator() {
     createMLSentence();
   }
 }
+
+function createInputArray() {
+  for (i = 0; i <= 13; i++) {}
+}
