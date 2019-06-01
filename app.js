@@ -62,4 +62,6 @@ function createInputArray() {
 
 function checkForMissingInput() {
   let = deafultArrayValls = ["Person", "Noun", "Verb", "Adjective", "Plural Verb", "Body Part", "Event"];
+
+  for (i = 0; i < mLArray.length; i++) {}
 }
