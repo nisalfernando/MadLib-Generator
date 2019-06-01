@@ -59,3 +59,5 @@ function createInputArray() {
     inputArray[i] = document.getElementById("i" + i).value;
   }
 }
+
+function checkForMissingInput() {}
