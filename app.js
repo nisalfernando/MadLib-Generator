@@ -64,6 +64,8 @@ function checkForMissingInput() {
   let = deafultArrayVals = ["Person", "Noun", "Verb", "Adjective", "Plural Verb", "Body Part", "Event"];
 
   for (i = 0; i < inputArray.length; i++) {
-    if (deafultArrayVals.indexOf(inputArray[i]) > -1) {}
+    if (deafultArrayVals.indexOf(inputArray[i]) > -1) {
+      return true;
+    }
   }
 }
