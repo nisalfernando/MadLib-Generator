@@ -60,4 +60,6 @@ function createInputArray() {
   }
 }
 
-function checkForMissingInput() {}
+function checkForMissingInput() {
+  let = deafultArrayValls = ["Person", "Noun", "Verb", "Adjective", "Plural Verb", "Body Part", "Event"];
+}
