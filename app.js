@@ -71,4 +71,6 @@ function checkForMissingInput() {
   return false;
 }
 
-function createMLSentence() {}
+function createMLSentence() {
+  let arrIndex = 0;
+}
