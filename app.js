@@ -68,4 +68,5 @@ function checkForMissingInput() {
       return true;
     }
   }
+  return false;
 }
