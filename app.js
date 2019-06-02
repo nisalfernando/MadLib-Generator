@@ -70,3 +70,5 @@ function checkForMissingInput() {
   }
   return false;
 }
+
+function createMLSentence() {}
