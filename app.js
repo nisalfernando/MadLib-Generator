@@ -73,4 +73,5 @@ function checkForMissingInput() {
 
 function createMLSentence() {
   let arrIndex = 0;
+  for (i = 0; i < mLArray.length; i++) {}
 }
