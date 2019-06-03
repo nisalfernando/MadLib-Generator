@@ -78,4 +78,5 @@ function createMLSentence() {
     mLArray[matchIndex] = inputArray[arrIndex];
     arrIndex++;
   }
+  document.getElementById("output1").value = mLArray.join(" ");
 }
