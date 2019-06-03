@@ -76,5 +76,6 @@ function createMLSentence() {
   for (i = 0; i < mLArray.length; i++) {
     let matchIndex = mLArray.indexOf("~");
     mLArray[matchIndex] = inputArray[arrIndex];
+    arrIndex++;
   }
 }
