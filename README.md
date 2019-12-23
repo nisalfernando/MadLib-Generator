@@ -7,4 +7,7 @@
 # <==- What Are The Expectations From This Project -==>
  -> To improve my coding skill.
  -> To improve my typing speed.
- -> 
+ -> To learn about the mathematics.
+ 
+# <==- Final Thoughts About This Project -==>
+ -> I recommend to any one who's starting the coding.
