@@ -11,3 +11,4 @@
  
 # <==- Final Thoughts About This Project -==>
  -> I recommend to any one who's starting the coding.
+ -> Check out Drek Banas's channel for most amazing videos.
