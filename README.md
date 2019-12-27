@@ -1,6 +1,6 @@
 # MadLib-Generator
 
-# <== -Project's Description -==>
+# <==- Project's Description -==>
  -> You can find the PI(A mathematical constant) using this.
  -> Also this is a word generator. I created this using a Derek Banas's video on YouTube.
 
